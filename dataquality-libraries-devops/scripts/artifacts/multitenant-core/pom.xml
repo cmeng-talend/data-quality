@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.talend.daikon</groupId>
 	<artifactId>multitenant-core</artifactId>
-	<version>0.31.7</version>
+	<version>1.6.0</version>
 	<packaging>jar</packaging>
 	<name>multitenant-core</name>
 	<description>Daikon multitenant core library</description>

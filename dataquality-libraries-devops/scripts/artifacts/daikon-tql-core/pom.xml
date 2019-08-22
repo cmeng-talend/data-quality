@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.talend.daikon</groupId>
 	<artifactId>daikon-tql-core</artifactId>
-	<version>0.31.7</version>
+	<version>1.6.0</version>
 	<packaging>jar</packaging>
 	<name>daikon-tql-core</name>
 	<description>Daikon TQL core library</description>
