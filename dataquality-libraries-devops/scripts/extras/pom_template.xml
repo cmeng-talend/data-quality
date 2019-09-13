@@ -6,8 +6,8 @@
 	<packaging>jar</packaging>
 	<licenses>
 		<license>
-			<name>The Apache Software License, Version 2.0</name>
-			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<name>Apache-2.0</name>
+			<url>http://www.talendforge.org/modules/licenses/APACHE_v2.txt</url>
 		</license>
 	</licenses>
 </project>
